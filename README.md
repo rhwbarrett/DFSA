@@ -15,7 +15,7 @@ This project is used to either recognize or generate strings given a model of a 
 
 To recognize a string as belonging to a particular regular language, follow the schematic provided below:
 
-./Run_DFSA -g modelFile testString
+Run_DFSA -g modelFile testString
 
 For example, to test whether the string "$19.99" belongs to the regular language of dollar amounts of up to $99.99, simply type the following in the command line:
 
