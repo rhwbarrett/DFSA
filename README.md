@@ -19,7 +19,7 @@ To recognize a string as belonging to a particular regular language, follow the 
 
 For example, to test whether the string "$19.99" belongs to the regular language of dollar amounts of up to $99.99, simply type the following in the command line:
 
-<code>./Run_DFSA.sh -g models/dollars.txt "\$19.99"</code>
+<code>./Run_DFSA.sh -g models/dollars.txt "\\$19.99"</code>
 
 Running the above command will produce the following:
 
