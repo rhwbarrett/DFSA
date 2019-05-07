@@ -15,7 +15,8 @@ This project is used to either recognize or generate strings given a model of a 
 
 To recognize a string as belonging to a particular regular language, follow the schematic provided below:
 
-<tab></tab>Run_DFSA -r modelFile testString
+<pre><code>./Run_DFSA.sh -r modelFile testString
+</code></pre>
 
 For example, to test whether the string "$19.99" belongs to the regular language of dollar amounts of up to $99.99, simply type the following in the command line:
 
@@ -34,10 +35,30 @@ Alternatively, running the command below:
 will produce the following:
 
 <code>The machine doesn't recognize the input as valid.</code>
+<hr />
 
 To generate a string of a particular regular language, follow the schematic provided below:
-Run_DFSA -g modelFile numberOfIterations
+
+<pre><code>./Run_DFSA.sh -g modelFile numberOfIterations
+</code></pre>
 
 For example, to generate 10 instances of dollar amounts of up to $99.99, simply type the following in the command line:
 
 <code>./Run_DFSA.sh -g models/dollars.txt 10</code>
+
+Running the above command will produce an output similar to the following:
+<pre><code>$93.76
+$80.38
+$0.14
+$53.98
+$85.35
+$8.33
+$31.99
+$0.81
+$51.65
+$54.77
+</code></pre>
+<hr />
+
+Making your own model.
+===================
