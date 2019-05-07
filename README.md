@@ -9,5 +9,5 @@ The project is ready to use; simply download from github, and unzip the download
 
 How to use:
 =================
-This project is operated through use of the command-line by way of a Bash Script.
+This project is operated through use of the command-line by way of a Bash Script.  After downloading and unzipping the project, simply type <code>cd DFSA</code> to navigate to the DFSA directory.
 
