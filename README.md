@@ -109,4 +109,4 @@ Some notes:
 * There are no spaces in between elements
 
 
-For more information about Deterministic Finite State Automatons, consult Chapter 2 of Jurafsky and Martin's "Speech and Language Processing: An Introduction to Natural Language Processing, Commputational Linguistics, and Speech Recognition, Second Edition"
+For more information about Deterministic Finite State Automatons, consult Chapter 2 of Jurafsky and Martin's "Speech and Language Processing: An Introduction to Natural Language Processing, Commputational Linguistics, and Speech Recognition, Second Edition".
