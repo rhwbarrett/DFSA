@@ -1,0 +1,22 @@
+true
+0,false;one<=>15<,>two<=>3<,>three<=>3<,>four<=>3<,>five<=>3<,>six<=>3<,>seven<=>3<,>eight<=>3<,>nine<=>3<,>ten<=>3<,>eleven<=>3<,>twelve<=>3<,>thirteen<=>3<,>fourteen<=>3<,>fifteen<=>3<,>sixteen<=>3<,>seventeen<=>3<,>eighteen<=>3<,>nineteen<=>3<,>twenty<=>1<,>thirty<=>1<,>forty<=>1<,>fifty<=>1<,>sixty<=>1<,>seventy<=>1<,>eighty<=>1<,>ninety<=>1
+1,false;-<=>2<,> <=>4
+2,false;one<=>3<,>two<=>3<,>three<=>3<,>four<=>3<,>five<=>3<,>six<=>3<,>seven<=>3<,>eight<=>3<,>nine<=>3
+3,false; <=>4
+4,false;cents<=>5<,>dollars<=>6
+5,true;<=>""
+6,true; <=>7
+7,false;and<=>8
+8,false; <=>9
+9,false;one<=>18<,>two<=>12<,>three<=>12<,>four<=>12<,>five<=>12<,>six<=>12<,>seven<=>12<,>eight<=>12<,>nine<=>12<,>ten<=>12<,>eleven<=>12<,>twelve<=>12<,>thirteen<=>12<,>fourteen<=>12<,>fifteen<=>12<,>sixteen<=>12<,>seventeen<=>12<,>eighteen<=>12<,>nineteen<=>12<,>twenty<=>10<,>thirty<=>10<,>forty<=>10<,>fifty<=>10<,>sixty<=>10<,>seventy<=>10<,>eighty<=>10<,>ninety<=>10
+10,false;-<=>11<,> <=>13
+11,false;one<=>12<,>two<=>12<,>three<=>12<,>four<=>12<,>five<=>12<,>six<=>12<,>seven<=>12<,>eight<=>12<,>nine<=>12
+12,false; <=>13
+13,false;cents<=>14
+14,true;<=>""
+15,false; <=>16
+16,false;cent<=>17<,>dollar<=>6
+17,true;<=>""
+18,false; <=>19
+19,false;cent<=>20
+20,true;<=>""
