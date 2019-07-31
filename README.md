@@ -61,7 +61,15 @@ will produce the following:
 <code>The machine doesn't recognize the input as valid.</code>
 <hr />
 
+Common errors while running this program typically stem from the following:
 
+Markup : 
+* Using an incorrect option
+* Missing an argument
+* Putting arguments in the wrong place, or
+* Having an improperly formatted model file.
+
+This last issue is dealt with in the following section.
 
 Making your own model.
 ===================
