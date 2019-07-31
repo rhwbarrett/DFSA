@@ -5,11 +5,11 @@ The project consists of a .jar file, a Bash Script for running it, and a directo
 
 Configuration:
 =================
-The project is ready to use; simply download from github, and unzip the downloaded file, and you are ready to go!
+Download the master file from github and unzip it.  Using the command line, type <code>cd DFSA-master</code> to navigate to the project directory.  Before you can use the project, you must make the Bash script that runs it executable.  To do this, type <code>chmod +x Run_DFSA.sh</code> into the command line.  Once you do this, the project is ready to use. 
 
 How to use:
 =================
-This project is operated through use of the command-line by way of a Bash Script.  After downloading and unzipping the project, simply type <code>cd DFSA</code> to navigate to the DFSA directory.  Type <code>ls</code>, to look at the contents of the <code>DFSA</code> directory.  Among the files present should be a file named <code>Run_DFSA.sh</code>; this is the file we will be using to run the project.
+This project is operated through use of the command-line by way of a Bash Script.  After downloading and unzipping the project, simply type <code>cd DFSA-master</code> to navigate to the DFSA directory.  Type <code>ls</code>, to look at the contents of the <code>DFSA-master</code> directory.  Among the files present should be a file named <code>Run_DFSA.sh</code>; this is the file we will be using to run the project.
 
 This project is used to either generate or recognize strings given a model of a regular language.
 
