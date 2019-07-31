@@ -63,7 +63,6 @@ will produce the following:
 
 Common errors while running this program typically stem from the following:
 
-Markup : 
 * Using an incorrect option
 * Missing an argument
 * Putting arguments in the wrong place, or
