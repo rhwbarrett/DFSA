@@ -69,6 +69,7 @@ Common errors while running this program typically stem from the following:
 * Having an improperly formatted model file.
 
 This last issue is dealt with in the following section.
+<hr />
 
 Making your own model.
 ===================
